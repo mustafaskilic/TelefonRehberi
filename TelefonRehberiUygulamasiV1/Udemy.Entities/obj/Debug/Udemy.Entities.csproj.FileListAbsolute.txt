@@ -1,0 +1,6 @@
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.Entities\bin\Debug\Udemy.Entities.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.Entities\bin\Debug\Udemy.Entities.pdb
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.Entities\obj\Debug\Udemy.Entities.csprojAssemblyReference.cache
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.Entities\obj\Debug\Udemy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.Entities\obj\Debug\Udemy.Entities.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.Entities\obj\Debug\Udemy.Entities.pdb

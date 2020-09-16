@@ -1,0 +1,13 @@
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Udemy.BLL.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Udemy.BLL.pdb
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Udemy.Core.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Udemy.Entities.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Udemy.Core.pdb
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Udemy.Entities.pdb
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\obj\Debug\Udemy.BLL.csprojAssemblyReference.cache
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\obj\Debug\Udemy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\obj\Debug\Udemy.BLL.csproj.CopyComplete
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\obj\Debug\Udemy.BLL.dll
+C:\Users\bjk_m\OneDrive\Masaüstü\Telefon Rehberi Uygulaması\TelefonRehberiUygulamasiV1\Udemy.BLL\obj\Debug\Udemy.BLL.pdb

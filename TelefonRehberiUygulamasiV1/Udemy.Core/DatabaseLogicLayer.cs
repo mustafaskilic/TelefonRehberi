@@ -54,14 +54,25 @@ namespace Udemy.Core
 
         public List<RehberKayit> RehberKayitlariGetir()
         {
-            if (File.Exists(@"c:\TelefonRehberiDB\kullanici.json"))
+            if (File.Exists(@"c:\TelefonRehberiDB\Rehber.json"))
             {
-              string JsonDBText=  File.ReadAllText(@"c:\TelefonRehberiDB\kullanici.json");
+              string JsonDBText=  File.ReadAllText(@"c:\TelefonRehberiDB\Rehber.json");
                 kayitlarim = JsonConvert.DeserializeObject<List<RehberKayit>>(JsonDBText);
             }
             return kayitlarim;
         }
+        public int KullaniciKontrol(Kullanici kullanici)
+        {
+            int KullaniciSonuc = 0;
+            if (File.Exists(@"c:\TelefonRehberiDB\kullanici.json"))
+            {
+                string JsonKullaniciText = File.ReadAllText(@"c:\TelefonRehberiDB\kullanici.json");
 
+                List<Kullanici> kullanicilar = Newtonsoft.Json.JsonConvert.DeserializeObject< List<Kullanici>>(JsonKullaniciText);
+          //   KullaniciSonuc=   kullanicilar.FindAll(i => i.KullaniciAdi == kullanici.KullaniciAdi && i.Sifre == kullanici.Sifre).Count();
+            }
+            return KullaniciSonuc;
+        }
         #region Yardımcı Metotlar
         private void JsonDBGuncelle()
         {
