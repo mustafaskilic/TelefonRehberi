@@ -30,12 +30,12 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtKullaniciAdi = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtSifre = new System.Windows.Forms.TextBox();
             this.btnGiris = new System.Windows.Forms.Button();
+            this.txtSifre = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtKullaniciAdi = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -65,32 +65,22 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Kullanıcı Giriş Bilgileri";
             // 
-            // pictureBox1
+            // btnGiris
             // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Image = global::Udemy.WFUI.Properties.Resources.user;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 16);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(169, 165);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.btnGiris.Location = new System.Drawing.Point(100, 87);
+            this.btnGiris.Name = "btnGiris";
+            this.btnGiris.Size = new System.Drawing.Size(201, 23);
+            this.btnGiris.TabIndex = 2;
+            this.btnGiris.Text = "Sistem Giriş";
+            this.btnGiris.UseVisualStyleBackColor = true;
+            this.btnGiris.Click += new System.EventHandler(this.btnGiris_Click);
             // 
-            // label1
+            // txtSifre
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(24, 38);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Kullanıcı Adı :";
-            // 
-            // txtKullaniciAdi
-            // 
-            this.txtKullaniciAdi.Location = new System.Drawing.Point(100, 35);
-            this.txtKullaniciAdi.Name = "txtKullaniciAdi";
-            this.txtKullaniciAdi.Size = new System.Drawing.Size(201, 20);
-            this.txtKullaniciAdi.TabIndex = 1;
+            this.txtSifre.Location = new System.Drawing.Point(100, 61);
+            this.txtSifre.Name = "txtSifre";
+            this.txtSifre.Size = new System.Drawing.Size(201, 20);
+            this.txtSifre.TabIndex = 1;
             // 
             // label2
             // 
@@ -101,22 +91,32 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "Şifre :";
             // 
-            // txtSifre
+            // txtKullaniciAdi
             // 
-            this.txtSifre.Location = new System.Drawing.Point(100, 61);
-            this.txtSifre.Name = "txtSifre";
-            this.txtSifre.Size = new System.Drawing.Size(201, 20);
-            this.txtSifre.TabIndex = 1;
+            this.txtKullaniciAdi.Location = new System.Drawing.Point(100, 35);
+            this.txtKullaniciAdi.Name = "txtKullaniciAdi";
+            this.txtKullaniciAdi.Size = new System.Drawing.Size(201, 20);
+            this.txtKullaniciAdi.TabIndex = 0;
             // 
-            // btnGiris
+            // label1
             // 
-            this.btnGiris.Location = new System.Drawing.Point(100, 87);
-            this.btnGiris.Name = "btnGiris";
-            this.btnGiris.Size = new System.Drawing.Size(201, 23);
-            this.btnGiris.TabIndex = 2;
-            this.btnGiris.Text = "Sistem Giriş";
-            this.btnGiris.UseVisualStyleBackColor = true;
-            this.btnGiris.Click += new System.EventHandler(this.btnGiris_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(24, 38);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(70, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Kullanıcı Adı :";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Image = global::Udemy.WFUI.Properties.Resources.user;
+            this.pictureBox1.Location = new System.Drawing.Point(3, 16);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(169, 165);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
